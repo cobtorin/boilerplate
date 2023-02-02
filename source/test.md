@@ -8,7 +8,8 @@ excerpt: これは抜粋です。
 # h1Sample
 ## h2Sample
 ### h3Sample
-普通のテキスト１　　
+普通のテキスト１
+
 普通のテキスト２
 
 ```javascript
